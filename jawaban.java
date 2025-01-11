@@ -26,3 +26,16 @@ public class jawaban {
         System.out.println("9. String  : " + tipeString);
     }
 }
+
+//Tipe data primitif:
+//byte: 8-bit, tipe data bilangan bulat rentang nilai dari -128 hingga 127.
+//short: 16-bit, tipe data bilangan bulat rentang nilai dari -32,768 hingga 32,767.
+//int: 32-bit, tipe data bilangan bulat rentang nilai dari -2^31 hingga 2^31-1.
+//long: 64-bit, tipe data bilangan bulat rentang nilai dari -2^63 hingga 2^63-1.
+//float: 32-bit, tipe data pecahan dengan presisi tunggal.
+//double: 64-bit, tipe data pecahan dengan presisi ganda.
+//char: 16-bit, menyimpan satu karakter Unicode.
+//boolean: hanya memiliki dua nilai, yaitu true atau false.
+
+//Tipe data referensi:
+//String: digunakan untuk menyimpan teks.
